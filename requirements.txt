@@ -1,0 +1,58 @@
+# LangChain Core Components
+langchain==0.3.24
+langchain-core==0.3.55
+langchain-community==0.3.22
+langchain-groq==0.3.2
+langchain-text-splitters==0.3.0
+
+# Embeddings and Transformers
+sentence-transformers==2.5.1
+transformers==4.40.1
+torch==2.2.2
+huggingface-hub==0.20.3
+
+# Vector Store (Chroma)
+chromadb==0.4.24
+chroma-hnswlib==0.7.3
+
+# Data Loading
+pandas==2.2.2
+lxml==5.2.1
+
+# FastAPI App
+fastapi==0.115.0
+uvicorn==0.27.1
+
+# LangChain Memory
+faiss-cpu==1.7.4
+
+# Utilities & Parsing
+python-dotenv==1.0.1
+pydantic>=2.6.4
+pydantic-core==2.16.3
+pydantic-settings==2.2.1
+tqdm==4.66.2
+typing-extensions==4.10.0
+
+# Async & Web
+aiohttp==3.9.3
+httpx==0.27.0
+requests==2.31.0
+
+# Optional - Useful Extras
+nest-asyncio==1.6.0
+beautifulsoup4==4.12.3
+certifi==2023.11.17
+urllib3==2.2.1
+
+
+scikit-learn==1.1.3
+matplotlib==3.7.1
+seaborn==0.11.2
+nltk==3.8.1
+rouge-score==0.1.2
+
+
+colorama==0.4.6
+portalocker==3.1.1
+sacrebleu==2.5.1

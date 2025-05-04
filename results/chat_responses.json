@@ -1,0 +1,37 @@
+[
+  {
+    "question": "What is the distribution of employees across departments?",
+    "reference": "The department distribution shows that Sales has 30%, Marketing has 25%, IT has 20%, HR has 15%, and Finance has 10% of employees.",
+    "candidate": "I don't know. The provided context does not contain any information about the distribution of employees across departments. It only contains work summaries for an employee with the number A100002."
+  },
+  {
+    "question": "What is the average experience of employees?",
+    "reference": "The average experience of employees is 3.5 years, with a minimum of 1 year and maximum of 8 years.",
+    "candidate": "I don't know. The provided context does not include any information about the employees' experience."
+  },
+  {
+    "question": "Can you recommend candidates for the Sales Manager position?",
+    "reference": "Based on the criteria, I recommend John Doe (5 years experience, MBTI: ENFJ) and Jane Smith (4 years experience, MBTI: ESTP) for the Sales Manager position.",
+    "candidate": "Based on the provided data, I can recommend candidates for the Sales Manager position. \n\nAnthony (employee_no: A100011) has a position name of Sales Manager, but his contract end date is 2021-07-01, which might not be suitable for the current needs. \n\nJackson (employee_no: A100018) has a position name of Intermediate implementation, but his position category is S2, which might not be a direct fit for a Sales Manager role. However, he has experience in the Sales division and has been working in the USA region. \n\nConsidering the available data, I would recommend Anthony as a potential candidate for the Sales Manager position, but it would be best to verify his current availability and suitability for the role."
+  },
+  {
+    "question": "What is the performance distribution of employees?",
+    "reference": "The performance distribution shows that 40% of employees are rated as Excellent, 35% as Good, 20% as Average, and 5% as Needs Improvement.",
+    "candidate": "I don't know. The provided context does not contain any information about the performance distribution of employees. It appears to be a collection of employee data and work summaries, but it does not include any metrics or data that would allow me to calculate a performance distribution."
+  },
+  {
+    "question": "What are the key skills required for a Sales Manager?",
+    "reference": "Key skills for a Sales Manager include leadership, communication, strategic planning, customer relationship management, and data analysis.",
+    "candidate": "Based on general knowledge, the key skills required for a Sales Manager typically include:\n\n1. **Leadership**: Ability to lead and motivate a team of sales representatives.\n2. **Communication**: Excellent verbal and written communication skills to effectively communicate with customers, team members, and other stakeholders.\n3. **Sales and Marketing**: In-depth knowledge of sales and marketing strategies, tactics, and techniques to drive revenue growth.\n4. **Analytical and Problem-Solving**: Ability to analyze sales data, identify trends, and develop solutions to improve sales performance.\n5. **Time Management**: Effective time management skills to prioritize tasks, manage multiple projects, and meet deadlines.\n6. **Customer Relationship Building**: Ability to build and maintain strong relationships with customers, understand their needs, and provide solutions.\n7. **Coaching and Development**: Ability to coach and develop sales representatives to improve their skills and performance.\n8. **Strategic Planning**: Ability to develop and implement sales strategies that align with the company's overall business objectives.\n9. **Negotiation**: Ability to negotiate effectively with customers to close deals and meet sales targets.\n10. **Adaptability**: Ability to adapt to changing market conditions, customer needs, and company goals.\n\nIn the context of the provided employee data, Anthony (employee_no: A100011) is listed as a Sales Manager, but the specific skills required for his role are not explicitly stated. However, based on general knowledge, the above-mentioned skills are typically required for a Sales Manager position."
+  },
+  {
+    "question": "How many employees have more than 5 years of experience?",
+    "reference": "Approximately 25% of employees have more than 5 years of experience in the organization.",
+    "candidate": "I don't know. The provided context does not contain information about the employees' years of experience."
+  },
+  {
+    "question": "What is the average performance rating by department?",
+    "reference": "The average performance rating by department is: Sales (4.2), Marketing (4.0), IT (4.1), HR (3.9), and Finance (4.0).",
+    "candidate": "I don't know. The provided information does not contain any information about performance ratings or departments."
+  }
+]
